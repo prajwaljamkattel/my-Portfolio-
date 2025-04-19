@@ -1,0 +1,2 @@
+Hi there! I’m Prajwal Jamkattel, and I’m excited to welcome you to my GitHub portfolio. This project is my first-ever website—a fun (and slightly nerve-wracking!) step into the world of coding. I’m all about learning new things, whether it’s diving into fresh tech, experimenting with ideas, or collaborating on cool projects. This space is where I share my progress, mistakes, and "aha!" moments. Thanks for dropping by—let’s geek out and grow together!
+
